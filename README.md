@@ -9,7 +9,7 @@ For lastmsg, go to the message you want the code to start at and 'Copy ID'
 For youruser, this is your Discord name. Do not include the # symbol or the four numbers after it.
 
 For authToken, 1. On your browser go to any discord conversation/server. Press F12.
-   2.On the desktop app, the dev tool key is CTRL + SHIFT + i.
+   1.On the desktop app, the dev tool key is CTRL + SHIFT + i.
    3.Delete a message. Under the 'Network' tab, should be the last entry but look for the shortest entry
    4.It should be an entry of JUST numbers
    5.Scroll down to 'Request Headers' on the right me
