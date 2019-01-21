@@ -27,3 +27,6 @@ The code only tracks how many messages it deletes of yours. You *can* add a vari
 Feel free to PM me if you have any questions about Altoids1 code, or my updated version.
 
 **Do not repost this code, or Altoids1, without credit. Don't be a dick.**
+
+Altoid1's Code:
+https://gist.github.com/CarletonStuberg/0c838a6248772c6fea1339ddad503cce#gistcomment-2774603
