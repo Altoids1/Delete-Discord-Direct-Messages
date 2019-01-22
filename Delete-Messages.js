@@ -1,11 +1,11 @@
 // Updated by TheOutride - Working as of Jan 21st, 2019
 // Credit to: Altoids1 (Original code), GotEnouth (Updated code, this version isn't based off his)
 
-var lastmsg = "big_number" // Copy the ID of the newest message you want to be cleared
-var youruser = "xxxtigbittiesxxx" // Your username. Do not use the # symbol or the four numbers after it.
+var lastmsg = "399331158711730187" // Copy the ID of the newest message you want to be cleared
+var youruser = "TheOutride" // Your username. Do not use the # symbol or the four numbers after it.
 var i = 0; // Keeps track of how many messages of yours it deletes. Not necessary, but cool info
 clearMessages = function(){
-	const authToken = "letters, numbers, periods, underscores that big long chain of stuff"
+	const authToken = "MjM2OTg2NTI1NjQ3MTEwMTQ0.Dv9pnw.emzMzeRrY4rG5R2Urs892_cJXy8"
 	/*To get your authentication token:
 		On your browser go to any discord conversation/server. Press F12.
 	   	On the desktop app, the dev tool key is CTRL + SHIFT + i.
@@ -13,8 +13,8 @@ clearMessages = function(){
 			*It should be an entry of JUST numbers
 		Scroll down to 'Request Headers' on the right menu
 		Look for 'authorization'. Thats your authToken. DO. NOT. SHARE. THIS. KEY. At all. With anyone.
-	*\
-	const channel = "18_digit"; 
+	*/
+	const channel = "332764938663886850"; 
 	// ^ This you can get from the URL that shows up in the browser version of discord; it's the ~18-digit number
 	
 /*
