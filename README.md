@@ -4,19 +4,20 @@ You can use this through either Discord's desktop app or through the browser.
 
 Instructions are also found as comments in the code.
 
-For lastmsg, go to the message you want the code to start at and 'Copy ID'
+For ``lastmsg``, go to the message you want the code to start at and 'Copy ID'
 
-For youruser, this is your Discord name. Do not include the # symbol or the four numbers after it.
+For ``youruser``, this is your Discord name. **Do not include the # symbol or the four numbers after it.**
 
-For authToken, 1. On your browser go to any discord conversation/server. Press F12.
-   1.On the desktop app, the dev tool key is CTRL + SHIFT + i.
-   3.Delete a message. Under the 'Network' tab, should be the last entry but look for the shortest entry
-   4.It should be an entry of JUST numbers
-   5.Scroll down to 'Request Headers' on the right me
-   6.Look for 'authorization'. Thats your authToken. DO. NOT. SHARE. THIS. KEY. At all. With anyone.
+For ``authToken``:
+1. On your browser go to any discord conversation/server. Press ``F12``.
+2. On the desktop app, the dev tool key is ``CTRL`` + ``SHIFT`` + ``i``.
+3. Delete a message. Under the 'Network' tab, should be the last entry but look for the shortest entry
+4. It should be an entry of JUST numbers
+5. Scroll down to 'Request Headers' on the right me
+6. Look for 'authorization'. Thats your authToken. **DO. NOT. SHARE. THIS. KEY.** At all. With anyone.
 
-For channel, this is the ~18 digit number on the url browser version of discord. You will need to acces
-  the conversation through browser to get this number.
+For channel, this is the ~18 digit number in the URL, on the browser version of discord. You will need to access
+  the conversation through a browser to get this number.
   
 -------------------
   
